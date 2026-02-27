@@ -1,0 +1,58 @@
+[
+  {
+    "name": "API",
+    "url": "https://api.headlesscommerce.io/v1/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.headlesscommerce.io.ico",
+    "slug": "api",
+    "status": "down",
+    "uptime": "1.85%",
+    "uptimeDay": "1.85%",
+    "uptimeWeek": "1.85%",
+    "uptimeMonth": "1.85%",
+    "uptimeYear": "1.85%",
+    "time": 706,
+    "timeDay": 706,
+    "timeWeek": 706,
+    "timeMonth": 706,
+    "timeYear": 706,
+    "dailyMinutesDown": {
+      "2026-02-27": 1
+    }
+  },
+  {
+    "name": "Dashboard",
+    "url": "https://app.headlesscommerce.io",
+    "icon": "https://icons.duckduckgo.com/ip3/app.headlesscommerce.io.ico",
+    "slug": "dashboard",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 358,
+    "timeDay": 358,
+    "timeWeek": 358,
+    "timeMonth": 358,
+    "timeYear": 358,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Documentation",
+    "url": "https://docs.headlesscommerce.io",
+    "icon": "https://icons.duckduckgo.com/ip3/docs.headlesscommerce.io.ico",
+    "slug": "documentation",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 356,
+    "timeDay": 356,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
+    "dailyMinutesDown": {}
+  }
+]
