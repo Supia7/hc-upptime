@@ -1,0 +1,44 @@
+owner: Supia7
+repo: hc-upptime
+
+sites:
+  - name: API
+    url: https://api.headlesscommerce.io/v1/health
+  - name: Dashboard
+    url: https://app.headlesscommerce.io
+  - name: Documentation
+    url: https://docs.headlesscommerce.io
+
+status-website:
+  cname: status.headlesscommerce.io
+  name: Headless Commerce Status
+  theme: light
+  favicon: https://app.headlesscommerce.io/favicon.ico
+  logoUrl: https://app.headlesscommerce.io/logo-64.png
+  navbar:
+    - title: Homepage
+      href: https://headlesscommerce.io
+    - title: Dashboard
+      href: https://app.headlesscommerce.io
+    - title: Docs
+      href: https://docs.headlesscommerce.io
+
+workflowSchedule:
+  uptime: "*/5 * * * *"
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+
+i18n:
+  activeIncidents: 현재 장애
+  allSystemsOperational: 모든 시스템 정상 운영 중
+  incidentReport: "장애 보고서 #$NUMBER"
+  liveStatus: 실시간 상태
+  overallUptime: 전체 가동률
+  responseTime: 응답 시간
+
+commitMessages:
+  statusChange: "$SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms)"
+  graphsUpdate: "Update response time graphs"
+  summaryUpdate: "Update summary"

@@ -1,0 +1,23 @@
+name: Setup CI
+on:
+  workflow_dispatch:
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: upptime/uptime-monitor@v1.38.2
+        with:
+          token: ${{ secrets.GH_PAT }}
+      - uses: upptime/graphs@v1.1.1
+        with:
+          token: ${{ secrets.GH_PAT }}
+      - uses: upptime/response-time@v1.0.0
+        with:
+          token: ${{ secrets.GH_PAT }}
+      - uses: upptime/summary@v1.0.0
+        with:
+          token: ${{ secrets.GH_PAT }}
+      - uses: upptime/static-site@v1.0.0
+        with:
+          token: ${{ secrets.GH_PAT }}
