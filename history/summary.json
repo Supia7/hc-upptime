@@ -16,7 +16,7 @@
     "timeMonth": 705,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2026-03-01": 1065,
+      "2026-03-01": 1076,
       "2026-02-28": 1440,
       "2026-02-27": 888
     }
@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.headlesscommerce.io.ico",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 159,
-    "timeWeek": 262,
-    "timeMonth": 262,
-    "timeYear": 262,
+    "uptime": "99.67%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 267,
+    "timeDay": 202,
+    "timeWeek": 267,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {
-      "2026-03-01": 0
+      "2026-03-01": 11
     }
   },
   {
@@ -47,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.headlesscommerce.io.ico",
     "slug": "documentation",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 306,
-    "timeWeek": 378,
-    "timeMonth": 378,
-    "timeYear": 378,
+    "uptime": "99.67%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 364,
+    "timeDay": 308,
+    "timeWeek": 364,
+    "timeMonth": 364,
+    "timeYear": 364,
     "dailyMinutesDown": {
-      "2026-03-01": 0
+      "2026-03-01": 11
     }
   }
 ]
