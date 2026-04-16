@@ -16,7 +16,7 @@
     "timeMonth": 614,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2026-04-16": 1212,
+      "2026-04-16": 1233,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
@@ -73,17 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.headlesscommerce.io.ico",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 983,
-    "timeWeek": 381,
-    "timeMonth": 457,
-    "timeYear": 402,
-    "dailyMinutesDown": {}
+    "uptime": "99.97%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 399,
+    "timeDay": 622,
+    "timeWeek": 366,
+    "timeMonth": 451,
+    "timeYear": 399,
+    "dailyMinutesDown": {
+      "2026-04-16": 22
+    }
   },
   {
     "name": "Documentation",
