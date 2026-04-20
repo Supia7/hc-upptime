@@ -16,7 +16,7 @@
     "timeMonth": 634,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2026-04-20": 759,
+      "2026-04-20": 792,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
@@ -97,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.headlesscommerce.io.ico",
     "slug": "documentation",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 780,
-    "timeDay": 539,
-    "timeWeek": 630,
-    "timeMonth": 766,
-    "timeYear": 780,
+    "uptime": "99.96%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 774,
+    "timeDay": 485,
+    "timeWeek": 605,
+    "timeMonth": 756,
+    "timeYear": 774,
     "dailyMinutesDown": {
-      "2026-04-20": 0
+      "2026-04-20": 32
     }
   }
 ]
